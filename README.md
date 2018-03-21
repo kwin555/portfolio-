@@ -1,7 +1,7 @@
 
 # Portfolio App
 
-> This is a Ruby on Rails 5 Applications that allows users to create their own folies. 
+> This is a Ruby on Rails 5 Applications that allows users to create their own portfolios. 
 
 ### Features
 
